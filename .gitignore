@@ -1,0 +1,10 @@
+destroy.log
+# Terraform-specific ignores
+.terraform/
+*.tfstate*
+*.tfvars*
+.terraform.lock.hcl
+crash.log
+index.html
+terraform.tfstate.backup
+terraform.tfstate
